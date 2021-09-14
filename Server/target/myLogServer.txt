@@ -1,0 +1,42 @@
+Sep 14, 2021 2:08:26 PM Utilities.Logging log
+WARNING: Port must be int number! Please notice about it!
+Sep 14, 2021 2:08:26 PM Utilities.Logging log
+INFO: Connecting to database ....... !
+Sep 14, 2021 2:08:26 PM Utilities.Logging log
+INFO: Enter your account:
+Sep 14, 2021 2:08:35 PM Utilities.Logging log
+INFO: Enter your password:
+Sep 14, 2021 2:08:37 PM Utilities.Logging log
+INFO: Successfully connect to DataBase!
+Sep 14, 2021 2:08:37 PM Utilities.Logging log
+INFO: Server has started listening on port 3000
+Sep 14, 2021 2:09:22 PM Utilities.Logging log
+INFO: Server: Received data!
+Sep 14, 2021 2:09:22 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+Sep 14, 2021 2:09:44 PM Utilities.Logging log
+INFO: Server: Received data!
+Sep 14, 2021 2:09:44 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+Sep 14, 2021 2:09:44 PM Utilities.Logging log
+INFO: Server is executing Info command....
+Sep 14, 2021 2:10:46 PM Utilities.Logging log
+INFO: Server: Received data!
+Sep 14, 2021 2:10:46 PM Utilities.Logging log
+INFO: Receiving data is combined command!
+Sep 14, 2021 2:10:46 PM Utilities.Logging log
+INFO: Server is executing Update Command....
+Sep 14, 2021 2:10:53 PM Utilities.Logging log
+INFO: Server: Received data!
+Sep 14, 2021 2:10:53 PM Utilities.Logging log
+INFO: Receiving data is argument command!
+Sep 14, 2021 2:10:53 PM Utilities.Logging log
+INFO: Server is executing Show command....
+Sep 14, 2021 2:12:10 PM Utilities.Logging log
+INFO: Server: Received data!
+Sep 14, 2021 2:12:10 PM Utilities.Logging log
+INFO: Receiving data is combined command!
+Sep 14, 2021 2:12:10 PM Utilities.Logging log
+INFO: Server is executing Update Command....
+Sep 14, 2021 2:12:10 PM Utilities.Logging log
+INFO: 14-09-2021 14:11
